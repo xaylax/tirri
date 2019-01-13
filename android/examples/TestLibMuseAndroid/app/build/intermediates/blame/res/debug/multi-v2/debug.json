@@ -1,0 +1,142 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/Faraz/Documents/Other/Hackathons/StarterHacks2019/Project/android/examples/TestLibMuseAndroid/app/build/intermediates/res/merged/debug/values-v11_values-v11.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/Faraz/Documents/Other/Hackathons/StarterHacks2019/Project/android/examples/TestLibMuseAndroid/app/src/main/res/values-v11/styles.xml",
+                    "from": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "177",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "309"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "187"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/Faraz/Documents/Other/Hackathons/StarterHacks2019/Project/android/examples/TestLibMuseAndroid/app/build/intermediates/res/merged/debug/values-w820dp-v13_values-w820dp-v13.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/Faraz/Documents/Other/Hackathons/StarterHacks2019/Project/android/examples/TestLibMuseAndroid/app/src/main/res/values-w820dp/dimens.xml",
+                    "from": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "305",
+                        "endColumns": "57",
+                        "endOffsets": "358"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "57",
+                        "endOffsets": "108"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/Faraz/Documents/Other/Hackathons/StarterHacks2019/Project/android/examples/TestLibMuseAndroid/app/build/intermediates/res/merged/debug/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/Faraz/Documents/Other/Hackathons/StarterHacks2019/Project/android/examples/TestLibMuseAndroid/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "6,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "186,510",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "472,665"
+                    },
+                    "to": {
+                        "startLines": "25,32",
+                        "startColumns": "4,4",
+                        "startOffsets": "1647,1938",
+                        "endLines": "31,34",
+                        "endColumns": "12,12",
+                        "endOffsets": "1933,2093"
+                    }
+                },
+                {
+                    "source": "/Users/Faraz/Documents/Other/Hackathons/StarterHacks2019/Project/android/examples/TestLibMuseAndroid/app/src/main/res/values/dimens.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "89,147",
+                        "endColumns": "57,55",
+                        "endOffsets": "142,198"
+                    },
+                    "to": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "312,370",
+                        "endColumns": "57,55",
+                        "endOffsets": "365,421"
+                    }
+                },
+                {
+                    "source": "/Users/Faraz/Documents/Other/Hackathons/StarterHacks2019/Project/android/examples/TestLibMuseAndroid/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "12,5,3,15,6,8,18,11,4,10,16,19,17,22,21,23,9,7,14,13",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "493,165,56,638,218,316,794,451,112,410,690,832,747,966,887,1208,366,262,592,547",
+                        "endColumns": "53,52,55,51,43,49,37,41,52,40,56,53,46,241,78,69,43,53,45,44",
+                        "endOffsets": "542,213,107,685,257,361,827,488,160,446,742,881,789,1203,961,1273,405,311,633,587"
+                    },
+                    "to": {
+                        "startLines": "5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "426,480,533,589,641,685,735,773,815,868,909,966,1020,1067,1309,1388,1458,1502,1556,1602",
+                        "endColumns": "53,52,55,51,43,49,37,41,52,40,56,53,46,241,78,69,43,53,45,44",
+                        "endOffsets": "475,528,584,636,680,730,768,810,863,904,961,1015,1062,1304,1383,1453,1497,1551,1597,1642"
+                    }
+                },
+                {
+                    "source": "/Users/Faraz/.gradle/caches/transforms-1/files-1.1/graphview-4.2.1.aar/ab8d4498a9c83401bd49d9608999e828/res/values/values.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "256",
+                        "endOffsets": "307"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/Faraz/Documents/Other/Hackathons/StarterHacks2019/Project/android/examples/TestLibMuseAndroid/app/build/intermediates/res/merged/debug/values-v14_values-v14.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/Faraz/Documents/Other/Hackathons/StarterHacks2019/Project/android/examples/TestLibMuseAndroid/app/src/main/res/values-v14/styles.xml",
+                    "from": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "220",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "366"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "201"
+                    }
+                }
+            ]
+        }
+    ]
+}

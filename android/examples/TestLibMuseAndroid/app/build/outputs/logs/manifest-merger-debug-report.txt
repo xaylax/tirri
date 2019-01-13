@@ -1,0 +1,134 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/Faraz/Documents/Other/Hackathons/StarterHacks2019/Project/android/examples/TestLibMuseAndroid/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /Users/Faraz/Documents/Other/Hackathons/StarterHacks2019/Project/android/examples/TestLibMuseAndroid/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /Users/Faraz/Documents/Other/Hackathons/StarterHacks2019/Project/android/examples/TestLibMuseAndroid/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /Users/Faraz/Documents/Other/Hackathons/StarterHacks2019/Project/android/examples/TestLibMuseAndroid/app/src/main/AndroidManifest.xml:2:1-32:12
+MERGED from [com.jjoe64:graphview:4.2.1] /Users/Faraz/.gradle/caches/transforms-1/files-1.1/graphview-4.2.1.aar/ab8d4498a9c83401bd49d9608999e828/AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support:support-v4:25.3.1] /Users/Faraz/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/f12378958252d574c65d377e66f7db75/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/Faraz/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/a5908045171d49024b6090b5ffc6f9a6/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/Faraz/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/dee0f1b0601ca31134d493a86dfa1e62/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/Faraz/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/aa9b5352465ebf66fab09b6d5f3f060d/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/Faraz/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/f1eb4076db7bcae201e6a70cbcd5178a/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.3.1] /Users/Faraz/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/20fb97427c4ee5c89653c024dc7a136d/AndroidManifest.xml:17:1-31:12
+INJECTED from /Users/Faraz/Documents/Other/Hackathons/StarterHacks2019/Project/android/examples/TestLibMuseAndroid/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /Users/Faraz/Documents/Other/Hackathons/StarterHacks2019/Project/android/examples/TestLibMuseAndroid/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /Users/Faraz/Documents/Other/Hackathons/StarterHacks2019/Project/android/examples/TestLibMuseAndroid/app/src/main/AndroidManifest.xml:2:1-32:12
+	package
+		ADDED from /Users/Faraz/Documents/Other/Hackathons/StarterHacks2019/Project/android/examples/TestLibMuseAndroid/app/src/main/AndroidManifest.xml:3:5-45
+		INJECTED from /Users/Faraz/Documents/Other/Hackathons/StarterHacks2019/Project/android/examples/TestLibMuseAndroid/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Faraz/Documents/Other/Hackathons/StarterHacks2019/Project/android/examples/TestLibMuseAndroid/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/Faraz/Documents/Other/Hackathons/StarterHacks2019/Project/android/examples/TestLibMuseAndroid/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/Faraz/Documents/Other/Hackathons/StarterHacks2019/Project/android/examples/TestLibMuseAndroid/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Faraz/Documents/Other/Hackathons/StarterHacks2019/Project/android/examples/TestLibMuseAndroid/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/Faraz/Documents/Other/Hackathons/StarterHacks2019/Project/android/examples/TestLibMuseAndroid/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/Faraz/Documents/Other/Hackathons/StarterHacks2019/Project/android/examples/TestLibMuseAndroid/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/Faraz/Documents/Other/Hackathons/StarterHacks2019/Project/android/examples/TestLibMuseAndroid/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Faraz/Documents/Other/Hackathons/StarterHacks2019/Project/android/examples/TestLibMuseAndroid/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/Faraz/Documents/Other/Hackathons/StarterHacks2019/Project/android/examples/TestLibMuseAndroid/app/src/main/AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from /Users/Faraz/Documents/Other/Hackathons/StarterHacks2019/Project/android/examples/TestLibMuseAndroid/app/src/main/AndroidManifest.xml:7:22-78
+uses-permission#android.permission.BLUETOOTH
+ADDED from /Users/Faraz/Documents/Other/Hackathons/StarterHacks2019/Project/android/examples/TestLibMuseAndroid/app/src/main/AndroidManifest.xml:8:5-68
+	android:name
+		ADDED from /Users/Faraz/Documents/Other/Hackathons/StarterHacks2019/Project/android/examples/TestLibMuseAndroid/app/src/main/AndroidManifest.xml:8:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /Users/Faraz/Documents/Other/Hackathons/StarterHacks2019/Project/android/examples/TestLibMuseAndroid/app/src/main/AndroidManifest.xml:9:5-74
+	android:name
+		ADDED from /Users/Faraz/Documents/Other/Hackathons/StarterHacks2019/Project/android/examples/TestLibMuseAndroid/app/src/main/AndroidManifest.xml:9:22-71
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/Faraz/Documents/Other/Hackathons/StarterHacks2019/Project/android/examples/TestLibMuseAndroid/app/src/main/AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from /Users/Faraz/Documents/Other/Hackathons/StarterHacks2019/Project/android/examples/TestLibMuseAndroid/app/src/main/AndroidManifest.xml:10:22-78
+application
+ADDED from /Users/Faraz/Documents/Other/Hackathons/StarterHacks2019/Project/android/examples/TestLibMuseAndroid/app/src/main/AndroidManifest.xml:15:5-30:19
+MERGED from [com.jjoe64:graphview:4.2.1] /Users/Faraz/.gradle/caches/transforms-1/files-1.1/graphview-4.2.1.aar/ab8d4498a9c83401bd49d9608999e828/AndroidManifest.xml:11:5-12:19
+MERGED from [com.jjoe64:graphview:4.2.1] /Users/Faraz/.gradle/caches/transforms-1/files-1.1/graphview-4.2.1.aar/ab8d4498a9c83401bd49d9608999e828/AndroidManifest.xml:11:5-12:19
+MERGED from [com.android.support:support-v4:25.3.1] /Users/Faraz/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/f12378958252d574c65d377e66f7db75/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /Users/Faraz/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/f12378958252d574c65d377e66f7db75/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/Faraz/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/a5908045171d49024b6090b5ffc6f9a6/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/Faraz/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/a5908045171d49024b6090b5ffc6f9a6/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/Faraz/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/dee0f1b0601ca31134d493a86dfa1e62/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/Faraz/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/dee0f1b0601ca31134d493a86dfa1e62/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/Faraz/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/aa9b5352465ebf66fab09b6d5f3f060d/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/Faraz/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/aa9b5352465ebf66fab09b6d5f3f060d/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/Faraz/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/f1eb4076db7bcae201e6a70cbcd5178a/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/Faraz/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/f1eb4076db7bcae201e6a70cbcd5178a/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/Faraz/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/20fb97427c4ee5c89653c024dc7a136d/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/Faraz/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/20fb97427c4ee5c89653c024dc7a136d/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /Users/Faraz/Documents/Other/Hackathons/StarterHacks2019/Project/android/examples/TestLibMuseAndroid/app/src/main/AndroidManifest.xml:18:9-41
+	android:icon
+		ADDED from /Users/Faraz/Documents/Other/Hackathons/StarterHacks2019/Project/android/examples/TestLibMuseAndroid/app/src/main/AndroidManifest.xml:17:9-45
+	android:allowBackup
+		ADDED from /Users/Faraz/Documents/Other/Hackathons/StarterHacks2019/Project/android/examples/TestLibMuseAndroid/app/src/main/AndroidManifest.xml:16:9-35
+	android:theme
+		ADDED from /Users/Faraz/Documents/Other/Hackathons/StarterHacks2019/Project/android/examples/TestLibMuseAndroid/app/src/main/AndroidManifest.xml:19:9-40
+activity#com.choosemuse.example.libmuse.MainActivity
+ADDED from /Users/Faraz/Documents/Other/Hackathons/StarterHacks2019/Project/android/examples/TestLibMuseAndroid/app/src/main/AndroidManifest.xml:20:9-29:20
+	android:screenOrientation
+		ADDED from /Users/Faraz/Documents/Other/Hackathons/StarterHacks2019/Project/android/examples/TestLibMuseAndroid/app/src/main/AndroidManifest.xml:22:13-49
+	android:label
+		ADDED from /Users/Faraz/Documents/Other/Hackathons/StarterHacks2019/Project/android/examples/TestLibMuseAndroid/app/src/main/AndroidManifest.xml:23:13-45
+	android:name
+		ADDED from /Users/Faraz/Documents/Other/Hackathons/StarterHacks2019/Project/android/examples/TestLibMuseAndroid/app/src/main/AndroidManifest.xml:21:13-71
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/Faraz/Documents/Other/Hackathons/StarterHacks2019/Project/android/examples/TestLibMuseAndroid/app/src/main/AndroidManifest.xml:24:13-28:29
+action#android.intent.action.MAIN
+ADDED from /Users/Faraz/Documents/Other/Hackathons/StarterHacks2019/Project/android/examples/TestLibMuseAndroid/app/src/main/AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from /Users/Faraz/Documents/Other/Hackathons/StarterHacks2019/Project/android/examples/TestLibMuseAndroid/app/src/main/AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/Faraz/Documents/Other/Hackathons/StarterHacks2019/Project/android/examples/TestLibMuseAndroid/app/src/main/AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from /Users/Faraz/Documents/Other/Hackathons/StarterHacks2019/Project/android/examples/TestLibMuseAndroid/app/src/main/AndroidManifest.xml:27:27-74
+uses-sdk
+INJECTED from /Users/Faraz/Documents/Other/Hackathons/StarterHacks2019/Project/android/examples/TestLibMuseAndroid/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/Faraz/Documents/Other/Hackathons/StarterHacks2019/Project/android/examples/TestLibMuseAndroid/app/src/main/AndroidManifest.xml
+INJECTED from /Users/Faraz/Documents/Other/Hackathons/StarterHacks2019/Project/android/examples/TestLibMuseAndroid/app/src/main/AndroidManifest.xml
+MERGED from [com.jjoe64:graphview:4.2.1] /Users/Faraz/.gradle/caches/transforms-1/files-1.1/graphview-4.2.1.aar/ab8d4498a9c83401bd49d9608999e828/AndroidManifest.xml:7:5-9:41
+MERGED from [com.jjoe64:graphview:4.2.1] /Users/Faraz/.gradle/caches/transforms-1/files-1.1/graphview-4.2.1.aar/ab8d4498a9c83401bd49d9608999e828/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:25.3.1] /Users/Faraz/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/f12378958252d574c65d377e66f7db75/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.1] /Users/Faraz/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/f12378958252d574c65d377e66f7db75/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/Faraz/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/a5908045171d49024b6090b5ffc6f9a6/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/Faraz/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/a5908045171d49024b6090b5ffc6f9a6/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/Faraz/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/dee0f1b0601ca31134d493a86dfa1e62/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/Faraz/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/dee0f1b0601ca31134d493a86dfa1e62/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/Faraz/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/aa9b5352465ebf66fab09b6d5f3f060d/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/Faraz/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/aa9b5352465ebf66fab09b6d5f3f060d/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/Faraz/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/f1eb4076db7bcae201e6a70cbcd5178a/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/Faraz/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/f1eb4076db7bcae201e6a70cbcd5178a/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] /Users/Faraz/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/20fb97427c4ee5c89653c024dc7a136d/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] /Users/Faraz/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/20fb97427c4ee5c89653c024dc7a136d/AndroidManifest.xml:21:5-23:58
+INJECTED from /Users/Faraz/Documents/Other/Hackathons/StarterHacks2019/Project/android/examples/TestLibMuseAndroid/app/src/main/AndroidManifest.xml
+INJECTED from /Users/Faraz/Documents/Other/Hackathons/StarterHacks2019/Project/android/examples/TestLibMuseAndroid/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:25.3.1] /Users/Faraz/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/f12378958252d574c65d377e66f7db75/AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from /Users/Faraz/Documents/Other/Hackathons/StarterHacks2019/Project/android/examples/TestLibMuseAndroid/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Faraz/Documents/Other/Hackathons/StarterHacks2019/Project/android/examples/TestLibMuseAndroid/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Faraz/Documents/Other/Hackathons/StarterHacks2019/Project/android/examples/TestLibMuseAndroid/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/Faraz/Documents/Other/Hackathons/StarterHacks2019/Project/android/examples/TestLibMuseAndroid/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Faraz/Documents/Other/Hackathons/StarterHacks2019/Project/android/examples/TestLibMuseAndroid/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Faraz/Documents/Other/Hackathons/StarterHacks2019/Project/android/examples/TestLibMuseAndroid/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:25.3.1] /Users/Faraz/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/f12378958252d574c65d377e66f7db75/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/Faraz/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/a5908045171d49024b6090b5ffc6f9a6/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/Faraz/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/a5908045171d49024b6090b5ffc6f9a6/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/Faraz/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/dee0f1b0601ca31134d493a86dfa1e62/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/Faraz/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/dee0f1b0601ca31134d493a86dfa1e62/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/Faraz/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/aa9b5352465ebf66fab09b6d5f3f060d/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/Faraz/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/aa9b5352465ebf66fab09b6d5f3f060d/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/Faraz/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/f1eb4076db7bcae201e6a70cbcd5178a/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/Faraz/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/f1eb4076db7bcae201e6a70cbcd5178a/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/Faraz/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/20fb97427c4ee5c89653c024dc7a136d/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/Faraz/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/20fb97427c4ee5c89653c024dc7a136d/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:support-v4:25.3.1] /Users/Faraz/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/f12378958252d574c65d377e66f7db75/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:support-v4:25.3.1] /Users/Faraz/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/f12378958252d574c65d377e66f7db75/AndroidManifest.xml:26:9-47

@@ -1,0 +1,4 @@
+#Sun Jan 13 14:42:03 EST 2019
+base.0=/Users/Faraz/libmuse_6.0.3/android/examples/TestLibMuseAndroid/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
