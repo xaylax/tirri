@@ -1,5 +1,4 @@
-# tirri-StarterHacks2019
-tirri: Personal Therapist App
+# tirri: Personal Therapist App
 
 *created by Ayla O., Faraz A., Marwan R., Bernadette C. for University of Waterloo's StarterHacks 2019*
 
